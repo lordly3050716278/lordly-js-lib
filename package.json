@@ -1,0 +1,33 @@
+{
+  "name": "lordly-js-lib",
+  "version": "1.0.0",
+  "description": "ES Module 和 Common JS的js库",
+  "main": "src/cjs/index.js",
+  "module": "src/esm/index.js",
+  "exports": {
+    "import": "./src/esm/index.js",
+    "require": "./src/cjs/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordly3050716278/lordly-js-lib.git"
+  },
+  "keywords": [
+    "lordly",
+    "js",
+    "lib"
+  ],
+  "author": "lordly <lordly0426@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordly3050716278/lordly-js-lib/issues"
+  },
+  "homepage": "https://github.com/lordly3050716278/lordly-js-lib#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "uuid": "^11.0.3"
+  }
+}
