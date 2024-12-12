@@ -26,7 +26,8 @@ lordly-js-lib/
 |   |   ├── event-bus/                # 发布订阅模式的事件总线
 |   |   ├── random-hash/              # 随机hash
 |   |   ├── sha256/                   # hash sha256 加密
-|   |   └── throttle/                 # 节流函数
+|   |   ├── throttle/                 # 节流函数
+|   |   └── write-file-with-dir-sync/ # 同步创建文件，当文件路径上的目录缺失时会自动创建缺失的目录
 |   |
 |   └── esm/                          # ESModule
 |       ├── browser-fingerprint/      # 浏览器指纹
