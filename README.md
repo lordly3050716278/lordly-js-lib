@@ -33,6 +33,7 @@ lordly-js-lib/
 |       ├── browser-fingerprint/      # 浏览器指纹
 |       ├── debounce/                 # 防抖函数
 |       ├── event-bus/                # 发布订阅模式的事件总线
+|       ├── object-form-data/         # 对象转表单对象
 |       ├── random-hash/              # 随机hash
 |       ├── sha256/                   # hash sha256 加密
 |       └── throttle/                 # 节流函数
