@@ -5,6 +5,7 @@ import randomHash from './random-hash'
 import getBrowserFingerprint from './browser-fingerprint'
 import eventBus from './event-bus'
 import buildObjFormData from './object-form-data'
+import copyToClipboard from './copy-to-clipboard'
 
 export {
     debounce,
@@ -13,5 +14,6 @@ export {
     randomHash,
     getBrowserFingerprint,
     eventBus,
-    buildObjFormData
+    buildObjFormData,
+    copyToClipboard
 }
