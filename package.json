@@ -1,6 +1,6 @@
 {
   "name": "lordly-js-lib",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "ES Module 和 Common JS的js库",
   "main": "src/cjs/index.js",
   "module": "src/esm/index.js",

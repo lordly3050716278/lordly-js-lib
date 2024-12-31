@@ -6,6 +6,7 @@ import getBrowserFingerprint from './browser-fingerprint'
 import eventBus from './event-bus'
 import buildObjFormData from './object-form-data'
 import copyToClipboard from './copy-to-clipboard'
+import diff from './diff'
 
 export {
     debounce,
@@ -15,5 +16,6 @@ export {
     getBrowserFingerprint,
     eventBus,
     buildObjFormData,
-    copyToClipboard
+    copyToClipboard,
+    diff
 }
