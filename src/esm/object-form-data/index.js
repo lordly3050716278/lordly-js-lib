@@ -1,6 +1,6 @@
 
 /**
- * @author - lordly<lordly0426@163.com>
+ * @author - <lordly0426@163.com>
  * 
  * 将一个对象封装成为一个表单数据对象 FormData
  * 

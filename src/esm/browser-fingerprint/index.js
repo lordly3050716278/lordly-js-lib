@@ -1,7 +1,7 @@
 import CryptoJS from 'crypto-js'
 
 /**
- * @author - lordly<lordly0426@163.com>
+ * @author - <lordly0426@163.com>
  * 
  * 获取浏览器指纹信息
  * 

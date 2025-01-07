@@ -1,5 +1,5 @@
 /**
- * @author - lordly<lordly0426@163.com>
+ * @author - <lordly0426@163.com>
  * 
  * 防抖函数
  * 

@@ -2,7 +2,7 @@ const { v1 } = require('uuid')
 const CryptoJS = require('crypto-js')
 
 /**
- * @author - lordly<lordly0426@163.com>
+ * @author - <lordly0426@163.com>
  * 
  * 生成一个唯一的经过sha-256加密后的UUID-v1
  * 

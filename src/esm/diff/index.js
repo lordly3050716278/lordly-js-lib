@@ -1,5 +1,5 @@
 /**
- * @author - lordly<lordly0426@163.com>
+ * @author - <lordly0426@163.com>
  * 
  * 获取新旧两个对象中变化过的内容
  * @param { object } oldObj 原对象

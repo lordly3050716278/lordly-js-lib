@@ -1,7 +1,7 @@
 import CryptoJS from 'crypto-js'
 
 /**
- * @author - lordly<lordly0426@163.com>
+ * @author - <lordly0426@163.com>
  * 
  * 对数据进行sha-256的hash加密
  * 
