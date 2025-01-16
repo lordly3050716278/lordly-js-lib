@@ -7,6 +7,7 @@ import eventBus from './event-bus'
 import buildObjFormData from './object-form-data'
 import copyToClipboard from './copy-to-clipboard'
 import diff from './diff'
+import convertCase from './convert-case'
 
 export {
     debounce,
@@ -17,5 +18,6 @@ export {
     eventBus,
     buildObjFormData,
     copyToClipboard,
-    diff
+    diff,
+    convertCase
 }
